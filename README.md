@@ -3,7 +3,7 @@
 Şık, karanlık tema odaklı ve **Notion Calendar** estetiğinden ilham alınarak geliştirilmiş, tamamen işlevsel bir dinamik takvim uygulaması.
 
 
-🔗 **Link:** (https://mehmetesa.github.io/CALENDAR/)
+🔗 **Link:** (https://mehmet-esat.github.io/CALENDAR/)
 
 
 ## ✨ Özellikler
